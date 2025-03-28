@@ -1,4 +1,4 @@
-# Medical-Insurance-Cost-Prediction
+# Medical Insurance Cost Prediction
 
 ## Project Overview
 This project predicts medical insurance costs based on demographic and health-related factors. Using machine learning techniques, I analyze how variables such as age, BMI, smoking habits, and region impact insurance charges.
