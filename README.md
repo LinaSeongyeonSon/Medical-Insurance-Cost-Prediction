@@ -5,13 +5,13 @@ This project predicts medical insurance costs based on demographic and health-re
 
 ## Dataset
 The dataset represents the medical insurance costs of indivisuals in the U.S., providing insights into factors influencing insurance charges. (https://www.kaggle.com/datasets/mirichoi0218/insurance/data)
-* age: Primary beneficiary's age
-* sex: Gender of the insurance holder (female/male)
-* bmi: Body mass index (kg/m²), indicating weight relative to height
-* children: Number of dependents covered by insurance
-* smoker: Smoking status (yes/no)
-* region: Residential area in the U.S. (northeast, southeast, southwest, northwest)
-* charges: Medical costs billed by insurance
+* `age`: Primary beneficiary's age
+* `sex`: Gender of the insurance holder (female/male)
+* `bmi`: Body mass index (kg/m²), indicating weight relative to height
+* `children`: Number of dependents covered by insurance
+* `smoker`: Smoking status (yes/no)
+* `region`: Residential area in the U.S. (northeast, southeast, southwest, northwest)
+* `charges`: Medical costs billed by insurance
 
 ## Libraries Used
 * **pandas, numpy:** Data manipulation and numerical operations
